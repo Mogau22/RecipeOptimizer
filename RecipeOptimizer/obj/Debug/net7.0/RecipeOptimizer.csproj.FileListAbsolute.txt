@@ -1,0 +1,15 @@
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/bin/Debug/net7.0/RecipeOptimizer
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/bin/Debug/net7.0/RecipeOptimizer.deps.json
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/bin/Debug/net7.0/RecipeOptimizer.runtimeconfig.json
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/bin/Debug/net7.0/RecipeOptimizer.dll
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/bin/Debug/net7.0/RecipeOptimizer.pdb
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.csproj.AssemblyReference.cache
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.AssemblyInfoInputs.cache
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.AssemblyInfo.cs
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.csproj.CoreCompileInputs.cache
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.dll
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/refint/RecipeOptimizer.dll
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.pdb
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/RecipeOptimizer.genruntimeconfig.cache
+/Users/phutilekota/Projects/RecipeOptimizer/RecipeOptimizer/obj/Debug/net7.0/ref/RecipeOptimizer.dll
